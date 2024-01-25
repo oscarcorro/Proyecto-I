@@ -1,0 +1,161 @@
+
+T: 0, Fallo de caché 1, addr 0B2E etq 16 linea 02 palabra 0E bloque B2
+Cargando el bloque B2 en la línea 02
+T: 20, Acierto de caché 1, addr 0B2E etq 16 linea 02 dato 79
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+
+T: 20, Fallo de caché 2, addr 0434 etq 8 linea 03 palabra 04 bloque 43
+Cargando el bloque 43 en la línea 03
+T: 40, Acierto de caché 2, addr 0434 etq 8 linea 03 dato 69
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+08 	 Datos:6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+
+T: 40, Acierto de caché 3, addr 0430 etq 8 linea 03 dato 6D
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+08 	 Datos:6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+
+T: 40, Fallo de caché 3, addr 0598 etq B linea 01 palabra 08 bloque 59
+Cargando el bloque 59 en la línea 01
+T: 60, Acierto de caché 4, addr 0598 etq B linea 01 dato 67
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+0B 	 Datos:6F 6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+08 	 Datos:6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+
+T: 60, Acierto de caché 5, addr 0595 etq B linea 01 dato 6A
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+0B 	 Datos:6F 6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+08 	 Datos:6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+
+T: 60, Acierto de caché 6, addr 0596 etq B linea 01 dato 69
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+0B 	 Datos:6F 6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+08 	 Datos:6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+
+T: 60, Fallo de caché 4, addr 0C77 etq 18 linea 07 palabra 07 bloque C7
+Cargando el bloque C7 en la línea 07
+T: 80, Acierto de caché 7, addr 0C77 etq 18 linea 07 dato 72
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+0B 	 Datos:6F 6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+08 	 Datos:6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+T: 80, Fallo de caché 5, addr 0B09 etq 16 linea 00 palabra 09 bloque B0
+Cargando el bloque B0 en la línea 00
+T: 100, Acierto de caché 8, addr 0B09 etq 16 linea 00 dato 77
+16 	 Datos:67 66 65 64 63 62 61 79 78 77 76 75 74 73 72 71 
+0B 	 Datos:6F 6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+08 	 Datos:6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+T: 100, Fallo de caché 6, addr 063A etq C linea 03 palabra 0A bloque 63
+Cargando el bloque 63 en la línea 03
+T: 120, Acierto de caché 9, addr 063A etq C linea 03 dato 6F
+16 	 Datos:67 66 65 64 63 62 61 79 78 77 76 75 74 73 72 71 
+0B 	 Datos:6F 6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+0C 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+T: 120, Fallo de caché 7, addr 0FC4 etq 1F linea 04 palabra 04 bloque FC
+Cargando el bloque FC en la línea 04
+T: 140, Acierto de caché 10, addr 0FC4 etq 1F linea 04 dato 73
+16 	 Datos:67 66 65 64 63 62 61 79 78 77 76 75 74 73 72 71 
+0B 	 Datos:6F 6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+0C 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+1F 	 Datos:77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 69 68 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+T: 140, Fallo de caché 8, addr 081C etq 10 linea 01 palabra 0C bloque 81
+Cargando el bloque 81 en la línea 01
+T: 160, Acierto de caché 11, addr 081C etq 10 linea 01 dato 72
+16 	 Datos:67 66 65 64 63 62 61 79 78 77 76 75 74 73 72 71 
+10 	 Datos:65 64 63 62 61 79 78 77 76 75 74 73 72 71 70 6F 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+0C 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+1F 	 Datos:77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 69 68 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+T: 160, Acierto de caché 12, addr 0FC0 etq 1F linea 04 dato 77
+16 	 Datos:67 66 65 64 63 62 61 79 78 77 76 75 74 73 72 71 
+10 	 Datos:65 64 63 62 61 79 78 77 76 75 74 73 72 71 70 6F 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+0C 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+1F 	 Datos:77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 69 68 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+T: 160, Fallo de caché 9, addr 0062 etq 0 linea 06 palabra 02 bloque 06
+Cargando el bloque 06 en la línea 06
+T: 180, Acierto de caché 13, addr 0062 etq 0 linea 06 dato 6A
+16 	 Datos:67 66 65 64 63 62 61 79 78 77 76 75 74 73 72 71 
+10 	 Datos:65 64 63 62 61 79 78 77 76 75 74 73 72 71 70 6F 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+0C 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+1F 	 Datos:77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 69 68 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+00 	 Datos:6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 76 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+T: 180, Acierto de caché 14, addr 0FC6 etq 1F linea 04 dato 71
+16 	 Datos:67 66 65 64 63 62 61 79 78 77 76 75 74 73 72 71 
+10 	 Datos:65 64 63 62 61 79 78 77 76 75 74 73 72 71 70 6F 
+16 	 Datos:6E 6D 6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 
+0C 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+1F 	 Datos:77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 69 68 
+FF 	 Datos:23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 23 
+00 	 Datos:6C 6B 6A 69 68 67 66 65 64 63 62 61 79 78 77 76 
+18 	 Datos:79 78 77 76 75 74 73 72 71 70 6F 6E 6D 6C 6B 6A 
+
+Accesos totales: 14; fallos: 9; tiempo medio: 12.857142
+Texto leido: nmlkjihgfedcbayxmlkjihgfedcbayxwonmlkjihgfedcbayyxwvutsrqponmlkjgfedcbayxwvutsrqyxwvutsrqponmlkjwvutsrqponmlkjihedcbayxwvutsrqpolkjihgfedcbayxwv
